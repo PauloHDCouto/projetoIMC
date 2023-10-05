@@ -7,6 +7,14 @@ Pontos importantes e que devem ser pensados durante a construção do projeto:
 - Apenas três telas criadas para visualizar as respostas!
 - Codigo em Js afim de aprender a manipular a DOM de formas diferentes!
 
+----> Como sumir com a tela no Enter e no Escape...
+---> Deixei cada uma das funções de forma diferente para ter mais recursos no futuro...
+--> Enter completo e Escape forma mais avançada...
+-> Import e Export Clean Code.
+
+Xx Modulação xX
+
+
 
 xx PROPOSITO -> Treinar Meu conteudo de JS xx
 
